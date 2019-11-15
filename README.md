@@ -12,3 +12,5 @@ Most of C's power comes from these attributes:
 * Don't use all of the ANSI keywords are in lowercase as identifiers in program.Generally the compilers 'complines' when incorrectly use any reserved keyword.
 ### A Programming Style
 1. Each tab is indented four characters.
+2. Lines should be a maximum of 80 characters if at all possible.
+Comments can use either the __ANSI__ standard /* comment */ or the newer //single line comment.gjhsgjad
