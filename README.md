@@ -34,3 +34,42 @@ __Example1:__
 int Myfunction(int n, char a[], char chMode)
 __Example2:__
 (img src"https://m.facebook.com/story.php?story_fbid=857480411316468&id=100011635508326&sfnsn=scwspmo")
+### Recommendation to order C source files:
+1. Use a one-line file description with the filename
+2. Add _#include_ statement
+3. Folllowing information usually is included with a typical source file:
+/
+**************************************************************************
+**
+** PROJECT: The project’s name goes here.
+**
+** TITLE: The FILE’S title (not the project title).
+**
+** FUNCTION: What the function(s) in this file does.
+** More than one line if necessary.
+**
+** INPUTS: What generally is passed to the functions.
+**
+** OUTPUTS: What the functions return.
+**
+** RETURNS: Some functions don’t return normally; say so if necessary.
+**
+** WRITTEN: When the file was created.
+**
+** CALLS: Significant calls to other parts of program.
+**
+** CALLED BY: Who (generally) calls these functions.
+**
+** AUTHOR: Your name.
+**
+** NOTES: Modifications, special considerations, and so on.
+**
+** COPYRIGHT 1992: By whomever. All rights reserved. All wrongs
+** deserved.
+**
+**************************************************************************/
+4. After the program header, put the definitions and declarations used in this file.
+5. List the file's functions.
+### Memory Models
+*_using a memory model larger than necessary isn’t always a
+serious problem._
