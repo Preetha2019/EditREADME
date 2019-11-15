@@ -10,3 +10,5 @@ Most of C's power comes from these attributes:
 #### Conditions:
 * If the compiler does extend the ANSI compiler minimum limits and you use the extensions, you can be sure that when your program is compiled with another compiler, it will either not compile correctly or not execute correctly.
 * Don't use all of the ANSI keywords are in lowercase as identifiers in program.Generally the compilers 'complines' when incorrectly use any reserved keyword.
+### A Programming Style
+1. Each tab is indented four characters.
