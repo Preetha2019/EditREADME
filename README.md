@@ -33,7 +33,7 @@ Most of C's power comes from these attributes:
 __Example1:__
 int Myfunction(int n, char a[], char chMode)
 __Example2:__
-(img src"https://m.facebook.com/story.php?story_fbid=857480411316468&id=100011635508326&sfnsn=scwspmo")
+(img src"https://photos.google.com/photo/AF1QipP02V84yMLGvmZ9AmakOliOvsd1i73bQDyQA49V")
 ### Recommendation to order C source files:
 1. Use a one-line file description with the filename
 2. Add _#include_ statement
