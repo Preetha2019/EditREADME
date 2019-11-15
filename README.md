@@ -33,4 +33,4 @@ Most of C's power comes from these attributes:
 __Example1:__
 int Myfunction(int n, char a[], char chMode)
 __Example2:__
-![alt https://tse4.mm.bing.net/th?id=OIP.8zfaOrvQgp042ZkYQWzWJAHaEo&pid=Api&P=0&w=262&h=164](image.jpg)
+(img src"https://tse1.mm.bing.net/th?id=OIP.0G6pXDfC7zTbrZJZcZjDMQHaE8&pid=Api&P=0&w=245&h=164")
